@@ -16,7 +16,7 @@ namespace inlämningsuppgift3_2
             }
             else
             {
-                Console.WriteLine("Du är tyvärr inte kvalificerad för jobbet!");
+                Console.WriteLine("Du är tyvärr inte kvalificerad för jobbet!");//
             }
         }
     }
